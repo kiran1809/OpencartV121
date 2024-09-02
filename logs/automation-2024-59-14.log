@@ -1,0 +1,55 @@
+20:30:23.643 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:30:23.649 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:30:23.650 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:30:23.651 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:30:23.652 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:30:23.652 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:30:23.652 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:30:23.660 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\AppData\Local\Temp\testng-eclipse-538161258\testng-customsuite.xml
+
+20:30:23.680 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+20:30:23.884 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4fe89c24: 68 ms
+20:30:23.896 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@18a3962d: 12 ms
+20:30:23.909 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5bda80bf: 12 ms
+20:30:23.919 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6d1d4d7: 10 ms
+20:30:23.926 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5f2606b: 7 ms
+20:30:23.927 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2b58f754: 0 ms
+20:43:19.348 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpencartV121\grouping.xml"
+20:43:19.641 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpencartV121\grouping.xml
+
+20:43:23.865 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+20:43:24.040 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+20:43:24.496 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:43:24.499 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details.....
+20:43:25.875 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:43:25.912 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+20:43:29.335 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+20:43:32.181 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+20:44:12.151 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpencartV121\grouping.xml"
+20:44:12.442 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpencartV121\grouping.xml
+
+20:44:18.246 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+20:44:22.121 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+13:52:46.865 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpencartV121\grouping.xml"
+13:52:47.167 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpencartV121\grouping.xml
+
+13:52:55.348 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+13:52:55.592 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+13:52:55.934 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+13:52:55.937 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details.....
+13:52:57.173 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+13:52:57.228 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+13:53:00.002 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+13:53:03.590 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+13:59:17.997 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpencartV121\grouping.xml"
+13:59:18.274 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpencartV121\grouping.xml
+
+13:59:21.462 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+13:59:21.680 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+13:59:22.088 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+13:59:22.092 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details.....

@@ -1,0 +1,43 @@
+20:26:42.824 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:26:42.848 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:26:42.849 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:26:42.849 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:26:42.867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:26:42.868 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:26:42.870 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:26:42.904 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Starting TC003_LoginDataDrivenTesting *****
+20:26:44.714 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Finished TC003_LoginDataDrivenTesting *****
+20:26:44.722 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Starting TC003_LoginDataDrivenTesting *****
+20:26:46.321 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Finished TC003_LoginDataDrivenTesting *****
+20:26:46.326 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Starting TC003_LoginDataDrivenTesting *****
+20:26:47.886 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Finished TC003_LoginDataDrivenTesting *****
+20:26:47.891 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Starting TC003_LoginDataDrivenTesting *****
+20:26:59.039 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Finished TC003_LoginDataDrivenTesting *****
+20:26:59.042 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Starting TC003_LoginDataDrivenTesting *****
+20:27:01.038 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Finished TC003_LoginDataDrivenTesting *****
+20:27:01.045 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Starting TC003_LoginDataDrivenTesting *****
+20:27:12.872 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Finished TC003_LoginDataDrivenTesting *****
+20:30:23.400 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\AppData\Local\Temp\testng-eclipse-538161258\testng-customsuite.xml"
+20:30:23.613 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:30:23.616 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+20:30:23.618 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:30:23.618 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:30:23.618 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:30:23.618 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:30:23.619 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:30:23.619 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:30:23.625 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+20:30:23.634 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+20:30:23.635 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:30:23.636 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+20:30:23.636 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:30:23.637 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:30:23.637 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:30:23.637 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:30:23.640 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:30:23.640 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:30:23.640 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:30:23.640 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:30:23.642 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:30:23.643 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:30:23.643 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.

@@ -1,0 +1,43 @@
+11:07:33.112 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:07:33.186 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:07:33.190 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:07:33.192 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:07:33.247 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:07:33.257 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:07:33.257 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:07:33.312 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:07:33.312 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:07:33.317 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:07:33.360 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:07:33.360 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:07:33.360 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:07:33.407 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:07:33.417 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:07:33.417 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:07:33.457 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:07:33.457 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:07:33.467 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:07:33.551 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Starting TC003_LoginDataDrivenTesting *****
+11:07:36.897 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Finished TC003_LoginDataDrivenTesting *****
+11:07:36.937 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Starting TC003_LoginDataDrivenTesting *****
+11:07:40.012 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Finished TC003_LoginDataDrivenTesting *****
+11:07:40.020 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Starting TC003_LoginDataDrivenTesting *****
+11:07:42.507 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Finished TC003_LoginDataDrivenTesting *****
+11:07:42.515 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Starting TC003_LoginDataDrivenTesting *****
+11:07:54.197 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Finished TC003_LoginDataDrivenTesting *****
+11:07:54.202 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Starting TC003_LoginDataDrivenTesting *****
+11:07:56.370 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Finished TC003_LoginDataDrivenTesting *****
+11:07:56.379 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Starting TC003_LoginDataDrivenTesting *****
+11:08:08.138 [main] INFO  testCases.TC003_LoginDataDrivenTesting - ***** Finished TC003_LoginDataDrivenTesting *****
+22:09:30.269 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpencartV121\docker.xml"
+22:09:30.781 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpencartV121\docker.xml
+
+22:09:40.881 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:09:41.369 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:09:41.898 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+22:09:41.898 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details.....
+22:09:43.701 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:09:43.778 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:09:50.828 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+22:09:53.397 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****

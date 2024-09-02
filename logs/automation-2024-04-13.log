@@ -1,0 +1,55 @@
+15:57:23.353 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:57:23.411 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+15:57:29.270 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:57:30.599 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:58:14.898 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpencartV121\master.xml"
+15:58:15.214 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpencartV121\master.xml
+
+15:58:20.135 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+15:58:20.247 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+15:58:20.711 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:58:20.714 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details.....
+15:58:22.117 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:58:22.159 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+15:58:27.538 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:58:28.821 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:58:42.910 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpencartV121\master.xml"
+15:58:43.238 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpencartV121\master.xml
+
+15:58:47.008 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+15:58:47.240 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+15:58:47.777 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:58:47.783 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details.....
+15:58:49.318 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:58:49.375 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+15:58:52.697 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:58:54.301 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+18:52:14.573 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpencartV121\master.xml"
+18:53:22.005 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpencartV121\master.xml"
+18:53:22.423 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpencartV121\master.xml
+
+18:53:26.863 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:53:27.281 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+18:53:28.373 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+18:53:28.378 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details.....
+18:53:30.400 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+18:53:30.461 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:53:33.107 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:53:35.289 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+18:53:38.246 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:53:38.250 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:53:38.251 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:55:00.011 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpencartV121\master.xml"
+18:55:00.454 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpencartV121\master.xml
+
+18:55:03.993 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:55:03.997 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:55:04.000 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:04:26.489 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kiran\eclipse-workspace\OpencartV121\master.xml"
+19:04:26.861 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kiran\eclipse-workspace\OpencartV121\master.xml
+
